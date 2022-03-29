@@ -4,7 +4,7 @@ import userEvent from '@testing-library/user-event';
 import renderWithRouter from '../renderWithRouter';
 import App from '../App';
 
-describe('', () => {
+describe('Testando componente PokemonDetails', () => {
   beforeEach(() => {
     const { history } = renderWithRouter(<App />);
     history.push('/pokemons/25');
