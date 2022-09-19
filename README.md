@@ -10,6 +10,14 @@ Para ter acesso aos arquivos do projeto você pode clonar usando o seguinte coma
 git clone git@github.com:yMaatheus/project-react-testing-library.git
 ```
 
+## Cobertura de testes
+
+Para ver a cobertura de testes utilize o comando:
+
+```
+npm run test-coverage
+```
+
 ## 🛠️ Construído com
 
 * [Npm](https://classic.yarnpkg.com/en/docs/getting-started) - Gerente de dependências
