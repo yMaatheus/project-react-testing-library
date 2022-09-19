@@ -26,4 +26,4 @@ npm run test-coverage
 
 ## ✒️ Autoria
 
-* O código fonte foi desenvolvido pela Trybe e eu fiz apenas os testes.
+* O código fonte foi desenvolvido pela Trybe e eu fiz os testes.
